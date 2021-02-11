@@ -1,2 +1,2 @@
 # hello-world
-Repository for ideas // followign the github guide
+Repository for ideas // following the github guide
